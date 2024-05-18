@@ -1,0 +1,25 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  height: 2000px;
+  width: 800px;
+  background: linear-gradient(to bottom, #a0c4ff, #5C0DE4); 
+}
+.head div{
+  font-size: 60px;
+  background: linear-gradient(to bottom, #a0c4ff, #5C0DE4); 
+}
+#main{
+  
+  
+}
+.ahead{
+      display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.ahead img{
+  width: 50%;
+  height: 30%;
+}

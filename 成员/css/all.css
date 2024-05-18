@@ -1,0 +1,21 @@
+h1{
+  color: #FF8A95;
+  font-size: 50px;
+}
+#memb{
+  border: 1px solid #8D0D7F;
+}
+#toggleButton{
+  text-decoration: none;
+  color: #A01A94;
+  font-size: 30px;
+  display: block;
+}
+#button{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
